@@ -8,7 +8,7 @@
 import SpriteKit
 import GameplayKit
 
-class GameScene: SKScene {
+class Cutscene3: SKScene {
     
     private var label : SKLabelNode?
     private var spinnyNode : SKShapeNode?
