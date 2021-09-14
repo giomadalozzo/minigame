@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "obstacleHorizontal.png",
+      "filename" : "obstacle.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
